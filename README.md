@@ -13,14 +13,14 @@
   
   ##
 
-<div>
+<div align="center">
   <a href="https://github.com/samuelzanardi">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelzanardi&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelzanardi&theme=dark&hide_border=true">
 </div>
 
 ##
   
- <div>
+ <div align="center">
    <a href = "mailto:samuelmoreira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    <a href = "https://twitter.com/samuelzanardi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target"_blank">
     <a href = "https://www.instagram.com/samuelzanardi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"_blank">
