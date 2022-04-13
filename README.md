@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on knowing enough so i can get and job to get some work experience :)
 - 🌱 I’m currently learning : JS, HTML and CSS
-- 😄 Pronouns: He/Him - Ele/Dele
 
  <div>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
